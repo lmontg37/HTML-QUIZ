@@ -1,0 +1,10 @@
+What is the correct HTML tag for inserting a line break?
+A:
+QUICK ANSWER
+The correct HTML tag for inserting a line break is the term br encased inside of brackets. This tag will insert a single line break, and is supported by the most common browsers, including Internet Explorer, Firefox, Google Chrome, Opera and Safari. CONTINUE READING
+KEEP LEARNING
+How do you use JavaScript in HTML?
+How do you change font size in html?
+How do you change the font in HTML?
+FULL ANSWER
+The br tag should not be used to separate paragraphs. Instead, the paragraph HTML tag should be used, which is simply the lower-case letter p encased in brackets as well. For inserting a br tag in HTML, br followed by a space and then by a forward slash will be used inside of brackets. There is no difference in the line break tag when working with HTML 4.01 or HTML 5.
